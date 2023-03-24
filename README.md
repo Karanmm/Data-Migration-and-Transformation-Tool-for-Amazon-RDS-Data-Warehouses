@@ -1,1 +1,1 @@
-# Data-Migration-and-Transformation-Tool-for-Amazon-RDS-Data-Warehouses
+# Data-Migration-and-Transformation-Tool-for-Amazon-SQL-Data-Warehouses
